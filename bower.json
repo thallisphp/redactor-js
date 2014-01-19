@@ -1,0 +1,17 @@
+{
+  "name": "redactor-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/thallisphp/redactor-js",
+  "authors": [
+    "ThallisPHP <thallisphp@gmail.com>"
+  ],
+  "description": "RedactorJS Mirror",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
